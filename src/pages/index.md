@@ -5,9 +5,14 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Simran Kaur.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Experienced Digital Marketer with a demonstrated history of working with
+      startups, travel industry, entertainment industry, and marketing agency.
+      Skilled in Search Engine Optimization (SEO), Social Media Optimization
+      (SMO), Social Media Marketing, Link Building, Increasing business leads,
+      and Organic Traffic to the website. Strong marketing professional with a
+      Bachelor of Commerce from Delhi University.
+
     actions:
       - label: Let's talk
         url: /contact

@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Simran Kaur
-    content: |
-      Digital Marketer
+    content: >
+      #                                                               Digital
+      Marketer
     actions:
       - label: Let's talk
         url: /contact
